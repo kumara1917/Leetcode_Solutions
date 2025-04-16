@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
