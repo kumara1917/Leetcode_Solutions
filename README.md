@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2836-neither-minimum-nor-maximum](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [2836-neither-minimum-nor-maximum](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## Tree
 |  |
 | ------- |
