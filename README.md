@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0500-keyboard-row) |
+| [0697-degree-of-an-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0500-keyboard-row) |
+| [0697-degree-of-an-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
