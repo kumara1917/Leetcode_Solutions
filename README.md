@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
 | [2083-three-divisors](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2556-convert-the-temperature](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2556-convert-the-temperature) |
 ## Trie
 |  |
 | ------- |
