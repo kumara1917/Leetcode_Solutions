@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0258-add-digits) |
 ## Trie
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0196-delete-duplicate-emails) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
