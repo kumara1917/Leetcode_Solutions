@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0830-largest-triangle-area](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
+| [0841-shortest-distance-to-a-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0742-to-lower-case) |
+| [0841-shortest-distance-to-a-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 ## String Matching
 |  |
 | ------- |
