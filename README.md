@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0742-to-lower-case) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
