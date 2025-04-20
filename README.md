@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
