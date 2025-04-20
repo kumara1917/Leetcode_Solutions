@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
 | [2083-three-divisors](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2083-three-divisors) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Trie
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [2195-time-needed-to-buy-tickets](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
