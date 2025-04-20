@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
+| [2083-three-divisors](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2083-three-divisors) |
 ## Trie
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2083-three-divisors) |
 ## Queue
 |  |
 | ------- |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1086-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
