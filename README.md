@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0742-to-lower-case) |
 | [0841-shortest-distance-to-a-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1260-day-of-the-year](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Database
 |  |
 | ------- |
