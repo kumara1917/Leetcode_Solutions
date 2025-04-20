@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2195-time-needed-to-buy-tickets](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2551-apply-operations-to-an-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
