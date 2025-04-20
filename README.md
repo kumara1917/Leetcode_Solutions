@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0830-largest-triangle-area](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
+| [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 ## Tree
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 ## Geometry
 |  |
 | ------- |
