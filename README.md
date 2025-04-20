@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0504-base-7) |
 ## Trie
 |  |
 | ------- |
