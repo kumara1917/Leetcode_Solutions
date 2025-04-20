@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
 | ------- |
