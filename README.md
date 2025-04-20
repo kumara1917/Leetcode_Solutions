@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [2195-time-needed-to-buy-tickets](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0415-add-strings) |
+| [2195-time-needed-to-buy-tickets](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2195-time-needed-to-buy-tickets](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
