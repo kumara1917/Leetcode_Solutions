@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
