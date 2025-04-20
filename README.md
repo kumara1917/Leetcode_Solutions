@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1086-divisor-game](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1086-divisor-game) |
 ## Trie
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -290,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
