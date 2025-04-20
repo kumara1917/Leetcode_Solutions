@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0742-to-lower-case) |
 | [0841-shortest-distance-to-a-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1260-day-of-the-year](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
