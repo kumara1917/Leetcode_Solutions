@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
