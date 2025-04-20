@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |
