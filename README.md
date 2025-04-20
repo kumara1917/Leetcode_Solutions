@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
