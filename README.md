@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 ## Memoization
 |  |
 | ------- |
