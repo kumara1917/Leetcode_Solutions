@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2195-time-needed-to-buy-tickets](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3194-find-words-containing-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String Matching
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [2195-time-needed-to-buy-tickets](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
