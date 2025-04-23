@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/kumara1917/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
+| [1500-count-largest-group](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
+| [1500-count-largest-group](https://github.com/kumara1917/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [2083-three-divisors](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2556-convert-the-temperature](https://github.com/kumara1917/Leetcode_Solutions/tree/master/2556-convert-the-temperature) |
